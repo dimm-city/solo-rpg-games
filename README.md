@@ -4,6 +4,7 @@ Solo journaling games for [DC Solo RPG](https://github.com/dimm-city/dc-solo-rpg
 
 | Game | Where | Who you are |
 | --- | --- | --- |
+| `future-lost.game.md` | A ruined future | A time traveler stranded after the collapse, repairing the machine that can take them home |
 | `last-light-in-the-burrows.game.md` | The Burrows, Deepwarren | A rat-folk patchhead keeping a drowning warren's pump-heart alive through the Black Rains |
 | `drift-gate-seven.game.md` | Tech District, Etherwave Transit Hub | A cat-folk wirephreak carrying stolen evidence through a lockdown toward the one gate still cycling |
 
